@@ -1,3 +1,5 @@
 this is the document named 'hello'
 
-adding a second line of text to the document
+adding a second line of text here
+
+adding a third line of text to this document. also, deleted part of the 2nd line.
