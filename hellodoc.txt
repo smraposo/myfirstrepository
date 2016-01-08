@@ -1,5 +1,6 @@
 this is the document named 'hello'
 
-adding a second line of text here
 
 adding a third line of text to this document. also, deleted part of the 2nd line.
+
+adding a 4th line of text. took out original 2nd line. I’m testing out the branching feature where I made a new one called hellobranchA to understand how it works with the master branch.
