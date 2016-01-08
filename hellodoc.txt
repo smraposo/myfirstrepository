@@ -1,6 +1,6 @@
 this is the document named 'hello'
 
 
-adding a third line of text to this document. also, deleted part of the 2nd line.
-
 deleted original 4th line and adding a 5th line. 4th line was when I created hellobranchA. But now I’m going to commit and push to master branch so that I can practice merging branches.
+
+that didn’t work and everything pushed to both branches, so I deleted the 3rd line and added this line. trying again.
